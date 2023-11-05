@@ -1,0 +1,9 @@
+* quickhull
+
+An implementation of the Quickhull convex hull construction algorithm
+
+|---------+------------------------------------------------|
+| source  | git:https://github.com/Shirakumo/quickhull.git |
+| commit  | f9c5095                                        |
+| systems | quickhull                                      |
+|---------+------------------------------------------------|
