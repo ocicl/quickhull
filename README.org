@@ -4,6 +4,6 @@ An implementation of the Quickhull convex hull construction algorithm
 
 |---------+------------------------------------------------|
 | source  | git:https://github.com/Shirakumo/quickhull.git |
-| commit  | e09e065                                        |
+| commit  | c026fab                                        |
 | systems | quickhull                                      |
 |---------+------------------------------------------------|
