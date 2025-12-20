@@ -2,8 +2,8 @@
 
 An implementation of the Quickhull convex hull construction algorithm
 
-|---------+------------------------------------------------|
-| source  | git:https://github.com/Shirakumo/quickhull.git |
-| commit  | 64350a1                                        |
-| systems | quickhull                                      |
-|---------+------------------------------------------------|
+|---------+-------------------------------------------------|
+| source  | git:https://codeberg.org/shirakumo/quickhull.git |
+| commit  | 20a36de                                         |
+| systems | quickhull                                       |
+|---------+-------------------------------------------------|
