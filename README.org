@@ -7,3 +7,4 @@ An implementation of the Quickhull convex hull construction algorithm
 | commit  | 20a36de                                         |
 | systems | quickhull                                       |
 |---------+-------------------------------------------------|
+ 
